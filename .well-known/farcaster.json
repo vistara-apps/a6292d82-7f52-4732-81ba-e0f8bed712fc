@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJwb3NlcGVyZmVjdC5haSJ9",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "PosePerfect AI",
+    "homeUrl": "https://poseperfect.ai",
+    "iconUrl": "https://poseperfect.ai/icon.png",
+    "splashImageUrl": "https://poseperfect.ai/splash.png",
+    "splashBackgroundColor": "#1e3a8a",
+    "webhookUrl": "https://poseperfect.ai/api/webhook",
+    "subtitle": "Professional photo guidance",
+    "description": "Real-time AI-driven guidance on photography posing, lighting, and composition for women, helping them take professional-quality photos without stress.",
+    "screenshotUrls": [
+      "https://poseperfect.ai/screenshot1.png",
+      "https://poseperfect.ai/screenshot2.png",
+      "https://poseperfect.ai/screenshot3.png"
+    ],
+    "primaryCategory": "lifestyle",
+    "tags": ["photography", "ai", "poses", "lighting", "composition"],
+    "heroImageUrl": "https://poseperfect.ai/hero.png",
+    "tagline": "Perfect poses, perfect photos",
+    "ogTitle": "PosePerfect AI - Professional Photo Guidance",
+    "ogDescription": "Real-time AI-driven guidance on photography posing, lighting, and composition",
+    "ogImageUrl": "https://poseperfect.ai/og.png"
+  }
+}
