@@ -1,0 +1,14 @@
+{
+  "name": "PosePerfect AI",
+  "description": "PosePerfect AI is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://a6292d82-7f52-4732-81ba-e0f8bed712fc.vercel.app",
+  "properties": {
+    "app": {
+      "name": "PosePerfect AI",
+      "description": "PosePerfect AI is a Base Mini App built with Zara.",
+      "url": "https://a6292d82-7f52-4732-81ba-e0f8bed712fc.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

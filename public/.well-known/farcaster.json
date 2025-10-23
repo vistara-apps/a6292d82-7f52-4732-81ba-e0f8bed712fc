@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "PosePerfect AI",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-bed712fc-vu0h.vercel.app",
+    "imageUrl": "https://a6292d82-7f52-4732-81ba-e0f8bed712fc.vercel.app/image.png",
+    "splashImageUrl": "https://a6292d82-7f52-4732-81ba-e0f8bed712fc.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-bed712fc-vu0h.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "PosePerfect AI is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://a6292d82-7f52-4732-81ba-e0f8bed712fc.vercel.app/screenshot1.png",
+      "https://a6292d82-7f52-4732-81ba-e0f8bed712fc.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://a6292d82-7f52-4732-81ba-e0f8bed712fc.vercel.app/hero.png",
+    "tagline": "PosePerfect AI",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "PosePerfect AI",
+    "ogDescription": "PosePerfect AI is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://a6292d82-7f52-4732-81ba-e0f8bed712fc.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+PosePerfect%20AI+at+https%3A%2F%2Fa6292d82-7f52-4732-81ba-e0f8bed712fc.vercel.app"
+  }
+}
